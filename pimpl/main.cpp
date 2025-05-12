@@ -1,6 +1,5 @@
 #include "http_client.h"
 #include <iostream>
-#include <stdexcept>
 
 int main() {
     try {
