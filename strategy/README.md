@@ -14,9 +14,9 @@ Define a family of algorithms (strategies), encapsulate each, and make them inte
 +------------------+                     +----------------------+
 | set_strategy(...)|                     | Algo - traverse(...) |
 +------------------+                     +----------------------+
-       ▲      ▲
-       |      |──────────────|
-       |                     |
+       ▲         ▲
+       |         |──────────────|
+       |                        |
 +--------------------+       +-----------------------+
 |  InOrderTraversal  | ...   |  LevelOrderTraversal  |
 +--------------------+       +-----------------------+
