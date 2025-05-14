@@ -36,3 +36,4 @@
 .clangd
 
 build/
+logs/
