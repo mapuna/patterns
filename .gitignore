@@ -33,6 +33,7 @@
 
 # Caches and other configs
 .cache/
+.idea/
 .clangd
 
 build/
