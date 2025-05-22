@@ -89,6 +89,7 @@ void optimizers_ex( ) {
 }
 
 int main( ) {
+    std::cout << "Creating various optimizers." << std::endl;
     optimizers_ex( );
     return 0;
 }

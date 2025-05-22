@@ -148,5 +148,7 @@ int main( ) {
     std::cout << "\nThis demonstrates that the Logger singleton is both thread-safe and non-blocking.\n";
     std::cout << "The main thread never waits for logging operations to complete.\n";
 
+    std::cout << "" << std::endl;
+    
     return 0;
 }
